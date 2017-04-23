@@ -1381,16 +1381,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/styles-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/img\/menu.png": {
 		"ft": 32768,
 		"iS": 2382,
@@ -1473,6 +1463,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/sounds\/openhat.wav",
+		"oF": 0
+		},
+	"\/sounds\/pacman.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sounds\/pacman.wav",
 		"oF": 0
 		},
 	"\/sounds\/ride.wav": {

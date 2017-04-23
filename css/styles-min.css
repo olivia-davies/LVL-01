@@ -5,3 +5,16 @@ body {
 h1 {
   color: white;
   font-size: 40px; }
+
+.key {
+  -webkit-transition: all 0.06s;
+  transition: all 0.06s; }
+
+.playing {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  background-color: blanchedalmond; }
+
+kbd {
+  display: block;
+  font-stretch: 40px; }

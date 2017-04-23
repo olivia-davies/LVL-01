@@ -1,5 +1,7 @@
 // Scripts //
 
+
+
 window.addEventListener('keydown', function (e) {
     const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
     
@@ -10,5 +12,13 @@ window.addEventListener('keydown', function (e) {
     audio.currentTime = 0; // rewind to the start
     audio.play();
 
-    console.log(key)
+//    key.classList.add('playing');
+     
 });
+
+//function removeTransition(e) {
+// if(e.propertyName !== 'transform') return; //skip it if it is not a transform 
+}
+
+const keys = document.querySelectorAll('.key');
+keys.forEach(key => key.addEventListener('transitionend', removeTransition ));
