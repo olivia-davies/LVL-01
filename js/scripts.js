@@ -16,7 +16,7 @@ function removeTransition(e) {
     setTimeout(function(){ 
         key.classList.remove('playing'); }, 100   
       );
-  };
+  }
 
   const keys = Array.from(document.querySelectorAll('.key'));
   keys.forEach(key => key.addEventListener('transitionend', removeTransition));
