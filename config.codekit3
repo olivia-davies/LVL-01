@@ -1381,6 +1381,26 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/css\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/styles-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/img\/concert.jpg": {
+		"ft": 16384,
+		"iS": 94462,
+		"oA": 0,
+		"oAP": "\/img\/concert.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/img\/menu.png": {
 		"ft": 32768,
 		"iS": 2382,
