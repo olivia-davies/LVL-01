@@ -1,5 +1,6 @@
 /* Stylesheet */
 
+
 body {
     background-image:url(/img/concert.jpg);
 }
@@ -10,17 +11,32 @@ h1 {
     text-align: center;
 }
 
+#audio {
+    text-align: center;
+}
+
+.soundboard {
+    border: 1px solid green;
+    border-radius: 20px;
+    background: #fff;
+}
 .keys {
+    width: 50%;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 50px;
+    margin: auto;
+    
 }
 
 .key {
     display: block;
     transition: all 0.06s;
     width: 100px;
+    height: 100px;
+  
+/* make them circular */
     text-align: center;
 }
 
