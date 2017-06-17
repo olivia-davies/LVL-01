@@ -12,7 +12,7 @@
 	"\/build": {
 		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/build\/build",
+		"oAP": "\/docs\/build",
 		"oF": 0
 		},
 	"\/components\/accordion.css": {
@@ -21,7 +21,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/accordion-min.css",
+		"oAP": "\/docs\/components\/accordion-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -29,7 +29,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/accordion-min.js",
+		"oAP": "\/docs\/components\/accordion-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -40,7 +40,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/accordion.min-min.css",
+		"oAP": "\/docs\/components\/accordion.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -48,7 +48,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/accordion.min-min.js",
+		"oAP": "\/docs\/components\/accordion.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -59,7 +59,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/ad-min.css",
+		"oAP": "\/docs\/components\/ad-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -69,7 +69,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/ad.min-min.css",
+		"oAP": "\/docs\/components\/ad.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -77,7 +77,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/api-min.js",
+		"oAP": "\/docs\/components\/api-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -86,7 +86,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/api.min-min.js",
+		"oAP": "\/docs\/components\/api.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -97,7 +97,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/breadcrumb-min.css",
+		"oAP": "\/docs\/components\/breadcrumb-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -107,7 +107,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/breadcrumb.min-min.css",
+		"oAP": "\/docs\/components\/breadcrumb.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -117,7 +117,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/button-min.css",
+		"oAP": "\/docs\/components\/button-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -127,7 +127,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/button.min-min.css",
+		"oAP": "\/docs\/components\/button.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -137,7 +137,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/card-min.css",
+		"oAP": "\/docs\/components\/card-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -147,7 +147,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/card.min-min.css",
+		"oAP": "\/docs\/components\/card.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -157,7 +157,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/checkbox-min.css",
+		"oAP": "\/docs\/components\/checkbox-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -165,7 +165,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/checkbox-min.js",
+		"oAP": "\/docs\/components\/checkbox-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -176,7 +176,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/checkbox.min-min.css",
+		"oAP": "\/docs\/components\/checkbox.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -184,7 +184,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/checkbox.min-min.js",
+		"oAP": "\/docs\/components\/checkbox.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -193,7 +193,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/colorize-min.js",
+		"oAP": "\/docs\/components\/colorize-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -202,7 +202,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/colorize.min-min.js",
+		"oAP": "\/docs\/components\/colorize.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -213,7 +213,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/comment-min.css",
+		"oAP": "\/docs\/components\/comment-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -223,7 +223,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/comment.min-min.css",
+		"oAP": "\/docs\/components\/comment.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -233,7 +233,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/container-min.css",
+		"oAP": "\/docs\/components\/container-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -243,7 +243,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/container.min-min.css",
+		"oAP": "\/docs\/components\/container.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -253,7 +253,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/dimmer-min.css",
+		"oAP": "\/docs\/components\/dimmer-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -261,7 +261,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/dimmer-min.js",
+		"oAP": "\/docs\/components\/dimmer-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -272,7 +272,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/dimmer.min-min.css",
+		"oAP": "\/docs\/components\/dimmer.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -280,7 +280,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/dimmer.min-min.js",
+		"oAP": "\/docs\/components\/dimmer.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -291,7 +291,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/divider-min.css",
+		"oAP": "\/docs\/components\/divider-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -301,7 +301,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/divider.min-min.css",
+		"oAP": "\/docs\/components\/divider.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -311,7 +311,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/dropdown-min.css",
+		"oAP": "\/docs\/components\/dropdown-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -319,7 +319,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/dropdown-min.js",
+		"oAP": "\/docs\/components\/dropdown-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -330,7 +330,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/dropdown.min-min.css",
+		"oAP": "\/docs\/components\/dropdown.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -338,7 +338,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/dropdown.min-min.js",
+		"oAP": "\/docs\/components\/dropdown.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -349,7 +349,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/embed-min.css",
+		"oAP": "\/docs\/components\/embed-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -357,7 +357,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/embed-min.js",
+		"oAP": "\/docs\/components\/embed-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -368,7 +368,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/embed.min-min.css",
+		"oAP": "\/docs\/components\/embed.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -376,7 +376,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/embed.min-min.js",
+		"oAP": "\/docs\/components\/embed.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -387,7 +387,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/feed-min.css",
+		"oAP": "\/docs\/components\/feed-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -397,7 +397,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/feed.min-min.css",
+		"oAP": "\/docs\/components\/feed.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -407,7 +407,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/flag-min.css",
+		"oAP": "\/docs\/components\/flag-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -417,7 +417,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/flag.min-min.css",
+		"oAP": "\/docs\/components\/flag.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -427,7 +427,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/form-min.css",
+		"oAP": "\/docs\/components\/form-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -435,7 +435,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/form-min.js",
+		"oAP": "\/docs\/components\/form-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -446,7 +446,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/form.min-min.css",
+		"oAP": "\/docs\/components\/form.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -454,7 +454,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/form.min-min.js",
+		"oAP": "\/docs\/components\/form.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -465,7 +465,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/grid-min.css",
+		"oAP": "\/docs\/components\/grid-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -475,7 +475,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/grid.min-min.css",
+		"oAP": "\/docs\/components\/grid.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -485,7 +485,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/header-min.css",
+		"oAP": "\/docs\/components\/header-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -495,7 +495,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/header.min-min.css",
+		"oAP": "\/docs\/components\/header.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -505,7 +505,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/icon-min.css",
+		"oAP": "\/docs\/components\/icon-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -515,7 +515,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/icon.min-min.css",
+		"oAP": "\/docs\/components\/icon.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -525,7 +525,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/image-min.css",
+		"oAP": "\/docs\/components\/image-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -535,7 +535,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/image.min-min.css",
+		"oAP": "\/docs\/components\/image.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -545,7 +545,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/input-min.css",
+		"oAP": "\/docs\/components\/input-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -555,7 +555,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/input.min-min.css",
+		"oAP": "\/docs\/components\/input.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -565,7 +565,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/item-min.css",
+		"oAP": "\/docs\/components\/item-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -575,7 +575,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/item.min-min.css",
+		"oAP": "\/docs\/components\/item.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -585,7 +585,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/label-min.css",
+		"oAP": "\/docs\/components\/label-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -595,7 +595,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/label.min-min.css",
+		"oAP": "\/docs\/components\/label.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -605,7 +605,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/list-min.css",
+		"oAP": "\/docs\/components\/list-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -615,7 +615,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/list.min-min.css",
+		"oAP": "\/docs\/components\/list.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -625,7 +625,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/loader-min.css",
+		"oAP": "\/docs\/components\/loader-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -635,7 +635,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/loader.min-min.css",
+		"oAP": "\/docs\/components\/loader.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -645,7 +645,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/menu-min.css",
+		"oAP": "\/docs\/components\/menu-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -655,7 +655,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/menu.min-min.css",
+		"oAP": "\/docs\/components\/menu.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -665,7 +665,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/message-min.css",
+		"oAP": "\/docs\/components\/message-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -675,7 +675,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/message.min-min.css",
+		"oAP": "\/docs\/components\/message.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -685,7 +685,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/modal-min.css",
+		"oAP": "\/docs\/components\/modal-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -693,7 +693,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/modal-min.js",
+		"oAP": "\/docs\/components\/modal-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -704,7 +704,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/modal.min-min.css",
+		"oAP": "\/docs\/components\/modal.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -712,7 +712,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/modal.min-min.js",
+		"oAP": "\/docs\/components\/modal.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -723,7 +723,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/nag-min.css",
+		"oAP": "\/docs\/components\/nag-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -731,7 +731,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/nag-min.js",
+		"oAP": "\/docs\/components\/nag-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -742,7 +742,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/nag.min-min.css",
+		"oAP": "\/docs\/components\/nag.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -750,7 +750,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/nag.min-min.js",
+		"oAP": "\/docs\/components\/nag.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -761,7 +761,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/popup-min.css",
+		"oAP": "\/docs\/components\/popup-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -769,7 +769,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/popup-min.js",
+		"oAP": "\/docs\/components\/popup-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -780,7 +780,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/popup.min-min.css",
+		"oAP": "\/docs\/components\/popup.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -788,7 +788,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/popup.min-min.js",
+		"oAP": "\/docs\/components\/popup.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -799,7 +799,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/progress-min.css",
+		"oAP": "\/docs\/components\/progress-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -807,7 +807,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/progress-min.js",
+		"oAP": "\/docs\/components\/progress-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -818,7 +818,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/progress.min-min.css",
+		"oAP": "\/docs\/components\/progress.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -826,7 +826,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/progress.min-min.js",
+		"oAP": "\/docs\/components\/progress.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -837,7 +837,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/rail-min.css",
+		"oAP": "\/docs\/components\/rail-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -847,7 +847,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/rail.min-min.css",
+		"oAP": "\/docs\/components\/rail.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -857,7 +857,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/rating-min.css",
+		"oAP": "\/docs\/components\/rating-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -865,7 +865,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/rating-min.js",
+		"oAP": "\/docs\/components\/rating-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -876,7 +876,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/rating.min-min.css",
+		"oAP": "\/docs\/components\/rating.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -884,7 +884,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/rating.min-min.js",
+		"oAP": "\/docs\/components\/rating.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -895,7 +895,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/reset-min.css",
+		"oAP": "\/docs\/components\/reset-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -905,7 +905,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/reset.min-min.css",
+		"oAP": "\/docs\/components\/reset.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -915,7 +915,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/reveal-min.css",
+		"oAP": "\/docs\/components\/reveal-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -925,7 +925,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/reveal.min-min.css",
+		"oAP": "\/docs\/components\/reveal.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -935,7 +935,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/search-min.css",
+		"oAP": "\/docs\/components\/search-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -943,7 +943,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/search-min.js",
+		"oAP": "\/docs\/components\/search-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -954,7 +954,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/search.min-min.css",
+		"oAP": "\/docs\/components\/search.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -962,7 +962,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/search.min-min.js",
+		"oAP": "\/docs\/components\/search.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -973,7 +973,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/segment-min.css",
+		"oAP": "\/docs\/components\/segment-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -983,7 +983,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/segment.min-min.css",
+		"oAP": "\/docs\/components\/segment.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -993,7 +993,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/shape-min.css",
+		"oAP": "\/docs\/components\/shape-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1001,7 +1001,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/shape-min.js",
+		"oAP": "\/docs\/components\/shape-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1012,7 +1012,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/shape.min-min.css",
+		"oAP": "\/docs\/components\/shape.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1020,7 +1020,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/shape.min-min.js",
+		"oAP": "\/docs\/components\/shape.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1031,7 +1031,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/sidebar-min.css",
+		"oAP": "\/docs\/components\/sidebar-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1039,7 +1039,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/sidebar-min.js",
+		"oAP": "\/docs\/components\/sidebar-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1050,7 +1050,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/sidebar.min-min.css",
+		"oAP": "\/docs\/components\/sidebar.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1058,7 +1058,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/sidebar.min-min.js",
+		"oAP": "\/docs\/components\/sidebar.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1069,7 +1069,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/site-min.css",
+		"oAP": "\/docs\/components\/site-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1077,7 +1077,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/site-min.js",
+		"oAP": "\/docs\/components\/site-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1088,7 +1088,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/site.min-min.css",
+		"oAP": "\/docs\/components\/site.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1096,7 +1096,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/site.min-min.js",
+		"oAP": "\/docs\/components\/site.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1105,7 +1105,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/state-min.js",
+		"oAP": "\/docs\/components\/state-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1114,7 +1114,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/state.min-min.js",
+		"oAP": "\/docs\/components\/state.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1125,7 +1125,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/statistic-min.css",
+		"oAP": "\/docs\/components\/statistic-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1135,7 +1135,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/statistic.min-min.css",
+		"oAP": "\/docs\/components\/statistic.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1145,7 +1145,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/step-min.css",
+		"oAP": "\/docs\/components\/step-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1155,7 +1155,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/step.min-min.css",
+		"oAP": "\/docs\/components\/step.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1165,7 +1165,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/sticky-min.css",
+		"oAP": "\/docs\/components\/sticky-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1173,7 +1173,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/sticky-min.js",
+		"oAP": "\/docs\/components\/sticky-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1184,7 +1184,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/sticky.min-min.css",
+		"oAP": "\/docs\/components\/sticky.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1192,7 +1192,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/sticky.min-min.js",
+		"oAP": "\/docs\/components\/sticky.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1203,7 +1203,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/tab-min.css",
+		"oAP": "\/docs\/components\/tab-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1211,7 +1211,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/tab-min.js",
+		"oAP": "\/docs\/components\/tab-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1222,7 +1222,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/tab.min-min.css",
+		"oAP": "\/docs\/components\/tab.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1230,7 +1230,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/tab.min-min.js",
+		"oAP": "\/docs\/components\/tab.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1241,7 +1241,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/table-min.css",
+		"oAP": "\/docs\/components\/table-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1251,7 +1251,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/table.min-min.css",
+		"oAP": "\/docs\/components\/table.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1261,7 +1261,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/transition-min.css",
+		"oAP": "\/docs\/components\/transition-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1269,7 +1269,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/transition-min.js",
+		"oAP": "\/docs\/components\/transition-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1280,7 +1280,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/transition.min-min.css",
+		"oAP": "\/docs\/components\/transition.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1288,7 +1288,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/transition.min-min.js",
+		"oAP": "\/docs\/components\/transition.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1299,7 +1299,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/video-min.css",
+		"oAP": "\/docs\/components\/video-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1307,7 +1307,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/video-min.js",
+		"oAP": "\/docs\/components\/video-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1318,7 +1318,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/video.min-min.css",
+		"oAP": "\/docs\/components\/video.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1326,7 +1326,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/video.min-min.js",
+		"oAP": "\/docs\/components\/video.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1335,7 +1335,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/visibility-min.js",
+		"oAP": "\/docs\/components\/visibility-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1344,7 +1344,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/visibility.min-min.js",
+		"oAP": "\/docs\/components\/visibility.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1353,7 +1353,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/visit-min.js",
+		"oAP": "\/docs\/components\/visit-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1362,7 +1362,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/components\/visit.min-min.js",
+		"oAP": "\/docs\/components\/visit.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1373,7 +1373,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/css\/semantic-min-min.css",
+		"oAP": "\/docs\/css\/semantic-min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1383,7 +1383,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/css\/semantic-min.css",
+		"oAP": "\/docs\/css\/semantic-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1393,7 +1393,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/css\/styles-min-min.css",
+		"oAP": "\/docs\/css\/styles-min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1403,7 +1403,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/css\/styles-min.css",
+		"oAP": "\/docs\/css\/styles-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1411,7 +1411,7 @@
 		"ft": 16384,
 		"iS": 94462,
 		"oA": 0,
-		"oAP": "\/build\/img\/concert.jpg",
+		"oAP": "\/docs\/img\/concert.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1421,7 +1421,7 @@
 		"ft": 32768,
 		"iS": 2382,
 		"oA": 0,
-		"oAP": "\/build\/img\/menu.png",
+		"oAP": "\/docs\/img\/menu.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
@@ -1432,7 +1432,7 @@
 		"ft": 16384,
 		"iS": 44586,
 		"oA": 0,
-		"oAP": "\/build\/img\/puppy-2.jpg",
+		"oAP": "\/docs\/img\/puppy-2.jpg",
 		"oF": 1,
 		"oIPL": 1,
 		"opt": 1,
@@ -1441,14 +1441,14 @@
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/index.html",
+		"oAP": "\/docs\/index.html",
 		"oF": 0
 		},
 	"\/js\/scripts-min.js": {
 		"ft": 64,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/build\/js\/scripts-min-min.js",
+		"oAP": "\/docs\/js\/scripts-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1457,7 +1457,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/js\/scripts-min.js",
+		"oAP": "\/docs\/js\/scripts-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1466,7 +1466,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/js\/semantic-min.js",
+		"oAP": "\/docs\/js\/semantic-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1474,92 +1474,92 @@
 	"\/sounds\/boom.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/boom.wav",
+		"oAP": "\/docs\/sounds\/boom.wav",
 		"oF": 0
 		},
 	"\/sounds\/djnoise2.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/djnoise2.wav",
+		"oAP": "\/docs\/sounds\/djnoise2.wav",
 		"oF": 0
 		},
 	"\/sounds\/drum3.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/drum3.wav",
+		"oAP": "\/docs\/sounds\/drum3.wav",
 		"oF": 0
 		},
 	"\/sounds\/Hi-hat.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/Hi-hat.wav",
+		"oAP": "\/docs\/sounds\/Hi-hat.wav",
 		"oF": 0
 		},
 	"\/sounds\/how_bad_do_you_want.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/how_bad_do_you_want.wav",
+		"oAP": "\/docs\/sounds\/how_bad_do_you_want.wav",
 		"oF": 0
 		},
 	"\/sounds\/kick 37.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/kick 37.wav",
+		"oAP": "\/docs\/sounds\/kick 37.wav",
 		"oF": 0
 		},
 	"\/sounds\/kick.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/kick.wav",
+		"oAP": "\/docs\/sounds\/kick.wav",
 		"oF": 0
 		},
 	"\/sounds\/openhat.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/openhat.wav",
+		"oAP": "\/docs\/sounds\/openhat.wav",
 		"oF": 0
 		},
 	"\/sounds\/RB_bg_sound.mp3": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/RB_bg_sound.mp3",
+		"oAP": "\/docs\/sounds\/RB_bg_sound.mp3",
 		"oF": 0
 		},
 	"\/sounds\/snap 08.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/snap 08.wav",
+		"oAP": "\/docs\/sounds\/snap 08.wav",
 		"oF": 0
 		},
 	"\/sounds\/Snare Wet.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/Snare Wet.wav",
+		"oAP": "\/docs\/sounds\/Snare Wet.wav",
 		"oF": 0
 		},
 	"\/sounds\/tink.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/tink.wav",
+		"oAP": "\/docs\/sounds\/tink.wav",
 		"oF": 0
 		},
 	"\/themes\/default\/assets\/fonts\/icons.eot": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/themes\/default\/assets\/fonts\/icons.eot",
+		"oAP": "\/docs\/themes\/default\/assets\/fonts\/icons.eot",
 		"oF": 0
 		},
 	"\/themes\/default\/assets\/fonts\/icons.otf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/themes\/default\/assets\/fonts\/icons.otf",
+		"oAP": "\/docs\/themes\/default\/assets\/fonts\/icons.otf",
 		"oF": 0
 		},
 	"\/themes\/default\/assets\/fonts\/icons.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/build\/themes\/default\/assets\/fonts\/icons.svg",
+		"oAP": "\/docs\/themes\/default\/assets\/fonts\/icons.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -1568,26 +1568,26 @@
 	"\/themes\/default\/assets\/fonts\/icons.ttf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/themes\/default\/assets\/fonts\/icons.ttf",
+		"oAP": "\/docs\/themes\/default\/assets\/fonts\/icons.ttf",
 		"oF": 0
 		},
 	"\/themes\/default\/assets\/fonts\/icons.woff": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/themes\/default\/assets\/fonts\/icons.woff",
+		"oAP": "\/docs\/themes\/default\/assets\/fonts\/icons.woff",
 		"oF": 0
 		},
 	"\/themes\/default\/assets\/fonts\/icons.woff2": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/themes\/default\/assets\/fonts\/icons.woff2",
+		"oAP": "\/docs\/themes\/default\/assets\/fonts\/icons.woff2",
 		"oF": 0
 		},
 	"\/themes\/default\/assets\/images\/flags.png": {
 		"ft": 32768,
 		"iS": 28123,
 		"oA": 0,
-		"oAP": "\/build\/themes\/default\/assets\/images\/flags.png",
+		"oAP": "\/docs\/themes\/default\/assets\/images\/flags.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1604,7 +1604,7 @@
 	"displayValue": "lvl-01",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_green",
-	"lastBuiltDate": 519319113
+	"lastBuiltDate": 519366392
 	},
 "projectSettings": {
 	"abortBuildOnError": 0,
@@ -1860,7 +1860,7 @@
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"buildFolderActive": 1,
-	"buildFolderName": "build",
+	"buildFolderName": "docs",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -3711,7 +3711,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "\/build"
+	"websiteRelativeRoot": "\/docs"
 	},
 "settingsFileVersion": "3"
 }
