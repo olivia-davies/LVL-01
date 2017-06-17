@@ -23,17 +23,17 @@ keys.forEach(key => key.addEventListener('transitionend', removeTransition));
 window.addEventListener('keydown', playSound);
 
 
-function setRandomColor(e) {
-    $(".playing").css("border", getRandomColor());
-}
-
-window.addEventListener('keydown', setRandomColor());
-
-function getRandomColor() {
-    var letters = '0123456789ABCDEF';
-    var color = '#';
-    for (var i = 0; i < 6; i++) {
-        color += letters[Math.floor(Math.random() * 16)];
-    }
-    return color;
-}
+//function setRandomColor(e) {
+//    $(".playing").css("border", getRandomColor());
+//}
+//
+//window.addEventListener('keydown', setRandomColor());
+//
+//function getRandomColor() {
+//    var letters = '0123456789ABCDEF';
+//    var color = '#';
+//    for (var i = 0; i < 6; i++) {
+//        color += letters[Math.floor(Math.random() * 16)];
+//    }
+//    return color;
+//}

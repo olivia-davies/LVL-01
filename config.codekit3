@@ -1471,12 +1471,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/sounds\/808drop.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/808drop.wav",
-		"oF": 0
-		},
 	"\/sounds\/boom.wav": {
 		"ft": 8192,
 		"oA": 2,
@@ -1507,6 +1501,12 @@
 		"oAP": "\/build\/sounds\/how_bad_do_you_want.wav",
 		"oF": 0
 		},
+	"\/sounds\/kick 37.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/kick 37.wav",
+		"oF": 0
+		},
 	"\/sounds\/kick.wav": {
 		"ft": 8192,
 		"oA": 2,
@@ -1519,22 +1519,16 @@
 		"oAP": "\/build\/sounds\/openhat.wav",
 		"oF": 0
 		},
-	"\/sounds\/Panned Reverse Cymbl.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/Panned Reverse Cymbl.wav",
-		"oF": 0
-		},
 	"\/sounds\/RB_bg_sound.mp3": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/sounds\/RB_bg_sound.mp3",
 		"oF": 0
 		},
-	"\/sounds\/Riser.wav": {
+	"\/sounds\/snap 08.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/Riser.wav",
+		"oAP": "\/build\/sounds\/snap 08.wav",
 		"oF": 0
 		},
 	"\/sounds\/Snare Wet.wav": {

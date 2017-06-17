@@ -1,8 +1,7 @@
 /* Stylesheet */
 
-
 body {
-    background-image:url(/img/concert.jpg);
+    background-image: url(/img/concert.jpg);
 }
 
 h1 {
@@ -12,19 +11,25 @@ h1 {
 }
 
 #audio {
- text-align: center;
+    text-align: center;
+    padding-bottom: 30px;
 }
 
-.boopbutton{
-    width: 100px;
-    height: 100px;
-    background: gray;
-    border-radius: 100px;
-    text-align: center;
-}
 .soundboard {
     border-radius: 30px;
-    background: #fff;
+    background: rgba(255, 255, 255, 0.16);
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.boopbutton {
+    width: 120px;
+    height: 120px;
+    background: #0045a1;
+    border-radius: 100px;
+    text-align:center;
 }
 
 
@@ -32,24 +37,30 @@ h1 {
     width: 50%;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    padding: 50px;
-    margin: auto;
+    justify-content: space-around;
+    padding: 10px;
 }
 
+
+#keybuttonz {
+    font-size: 35px;
+    color: lightgrey;
+    margin-top: 50px;
+}
+/*
 .key {
     display: block;
     transition: all 0.06s;
     width: 100px;
     height: 100px;
 }
+*/
 
 .playing {
-    border:0.5em solid #00c;
-    color:#00c;
+    border: 0.5em solid #fff;
+    color: #00c;
 }
 
-kbd {
-    font-size: 35px;
-    color: lightgrey;
+span {
+    
 }
