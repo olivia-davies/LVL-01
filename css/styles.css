@@ -12,14 +12,22 @@ h1 {
 }
 
 #audio {
-    text-align: center;
+ text-align: center;
 }
 
+.boopbutton{
+    width: 100px;
+    height: 100px;
+    background: gray;
+    border-radius: 100px;
+    text-align: center;
+}
 .soundboard {
-    border: 1px solid green;
-    border-radius: 20px;
+    border-radius: 30px;
     background: #fff;
 }
+
+
 .keys {
     width: 50%;
     display: flex;
@@ -27,7 +35,6 @@ h1 {
     justify-content: space-between;
     padding: 50px;
     margin: auto;
-    
 }
 
 .key {
@@ -35,17 +42,14 @@ h1 {
     transition: all 0.06s;
     width: 100px;
     height: 100px;
-  
-/* make them circular */
-    text-align: center;
 }
 
 .playing {
-    -webkit-transform: scale(1.1);
-    transform: scale(1.4);
+    border:0.5em solid #00c;
+    color:#00c;
 }
 
 kbd {
-    display: block;
-    font-stretch: 40px;
+    font-size: 35px;
+    color: lightgrey;
 }

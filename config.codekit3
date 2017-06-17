@@ -1471,28 +1471,34 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/sounds\/808drop.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/808drop.wav",
+		"oF": 0
+		},
 	"\/sounds\/boom.wav": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/sounds\/boom.wav",
 		"oF": 0
 		},
-	"\/sounds\/clap.wav": {
+	"\/sounds\/djnoise2.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/clap.wav",
+		"oAP": "\/build\/sounds\/djnoise2.wav",
 		"oF": 0
 		},
-	"\/sounds\/feel_good.wav": {
+	"\/sounds\/drum3.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/feel_good.wav",
+		"oAP": "\/build\/sounds\/drum3.wav",
 		"oF": 0
 		},
-	"\/sounds\/hihat.wav": {
+	"\/sounds\/Hi-hat.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/hihat.wav",
+		"oAP": "\/build\/sounds\/Hi-hat.wav",
 		"oF": 0
 		},
 	"\/sounds\/how_bad_do_you_want.wav": {
@@ -1513,10 +1519,10 @@
 		"oAP": "\/build\/sounds\/openhat.wav",
 		"oF": 0
 		},
-	"\/sounds\/pacman_dies_y.wav": {
+	"\/sounds\/Panned Reverse Cymbl.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/pacman_dies_y.wav",
+		"oAP": "\/build\/sounds\/Panned Reverse Cymbl.wav",
 		"oF": 0
 		},
 	"\/sounds\/RB_bg_sound.mp3": {
@@ -1525,28 +1531,22 @@
 		"oAP": "\/build\/sounds\/RB_bg_sound.mp3",
 		"oF": 0
 		},
-	"\/sounds\/ride.wav": {
+	"\/sounds\/Riser.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/ride.wav",
+		"oAP": "\/build\/sounds\/Riser.wav",
 		"oF": 0
 		},
-	"\/sounds\/snare.wav": {
+	"\/sounds\/Snare Wet.wav": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/sounds\/snare.wav",
+		"oAP": "\/build\/sounds\/Snare Wet.wav",
 		"oF": 0
 		},
 	"\/sounds\/tink.wav": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/sounds\/tink.wav",
-		"oF": 0
-		},
-	"\/sounds\/tom.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/tom.wav",
 		"oF": 0
 		},
 	"\/themes\/default\/assets\/fonts\/icons.eot": {
@@ -1610,7 +1610,7 @@
 	"displayValue": "lvl-01",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_green",
-	"lastBuiltDate": 519284383
+	"lastBuiltDate": 519319113
 	},
 "projectSettings": {
 	"abortBuildOnError": 0,
