@@ -9,12 +9,6 @@
 	],
 "creatorBuild": "25813",
 "files": {
-	"\/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/docs\/build",
-		"oF": 0
-		},
 	"\/components\/accordion.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1407,6 +1401,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/docs": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/docs\/docs",
+		"oF": 0
+		},
 	"\/img\/concert.jpg": {
 		"ft": 16384,
 		"iS": 94462,
@@ -1417,26 +1417,101 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/img\/menu.png": {
+	"\/img\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 2382,
+		"iS": 11378,
 		"oA": 0,
-		"oAP": "\/docs\/img\/menu.png",
+		"oAP": "\/docs\/img\/favicons\/android-chrome-192x192.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
-		"q": 47
+		"q": 100
 		},
-	"\/img\/puppy-2.jpg": {
-		"ft": 16384,
-		"iS": 44586,
+	"\/img\/favicons\/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 64058,
 		"oA": 0,
-		"oAP": "\/docs\/img\/puppy-2.jpg",
-		"oF": 1,
-		"oIPL": 1,
-		"opt": 1,
-		"q": 72
+		"oAP": "\/docs\/img\/favicons\/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 7727,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/browserconfig.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/img\/favicons\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/img\/favicons\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 729,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1189,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/img\/favicons\/favicon.ico",
+		"oF": 0
+		},
+	"\/img\/favicons\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/docs\/img\/favicons\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/img\/favicons\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 6328,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/docs\/img\/favicons\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/index.html": {
 		"ft": 8192,
